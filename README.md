@@ -1,4 +1,4 @@
-# Bhaskar's Personal Wiki | Deep Notes
+# Bhaskar's Personal Wiki | My Notebook
 
 Deployed at - [https://bhaskarbabu0984.github.io/](https://bhaskarbabu0984.github.io/)
 
@@ -12,7 +12,7 @@ If this is your first time visiting this wiki, take a look at [outline](https://
 
 ## Size of Wiki
 
-Below are my 2400+ notes & their relations visualized using Obsidian.
+<!--Below are my 2400+ notes & their relations visualized using Obsidian.
 
 ![All Notes Visualized in an Obsidian Graph](docs/media/notes-visualized.jpg)
 
@@ -37,7 +37,7 @@ loc
  Total                 2444       301969        84045          117       217807
 --------------------------------------------------------------------------------
 ```
-
+-->
 ## Outline
 
 - [About me](https://deepaksood619.github.io/about-deepak-sood/)
