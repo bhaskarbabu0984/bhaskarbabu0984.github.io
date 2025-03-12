@@ -1,0 +1,15 @@
+# Project Management
+
+- [Intro](management/project-management/intro.md)
+- [SDLC Methodologies](management/project-management/sdlc-methodologies.md)
+- [PM101](pm101)
+- [Project Constraints](project-contraints)
+- [PERT and CPM](management/project-management/pert-and-cpm.md)
+- [JIRA](jira)
+- [Atlas](management/project-management/atlas.md)
+- [Agile](agile)
+- [Scrum / Meetings](scrum-meetings)
+- [Goal Setting](management/project-management/goals-setting.md)
+- [PM Template](management/project-management/template.md)
+- [Others](management/project-management/others.md)
+- [Program Management](management/project-management/program-management.md)

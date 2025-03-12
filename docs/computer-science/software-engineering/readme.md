@@ -1,0 +1,16 @@
+# Software Engineering
+
+- [Software Engineering](computer-science/software-engineering/intro.md)
+- [Coding Guidelines / Code Reviews / Clean Code](computer-science/software-engineering/coding-guidelines-code-reviews-clean-code.md)
+- [Static Code Analysis](static-code-analysis)
+- [Code Smell](code-smell)
+- [Development Approaches](development-approaches)
+- [Principles](principles)
+- [Types of code](types-of-code)
+- [Technical Debt](technical-debt)
+- [Software Complexity](complexity)
+- [Refactoring](refactoring)
+- [Developer Roles](developer-roles)
+- [Modeling Languages](modeling-languages)
+- [Change Management](computer-science/software-engineering/change-management.md)
+- [Coding Quotes](knowledge/quotes-proverbs/coding.md)
