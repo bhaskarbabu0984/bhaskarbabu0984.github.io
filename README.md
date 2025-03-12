@@ -10,9 +10,9 @@ If this is your first time visiting this wiki, take a look at [outline](https://
 
 **Why I write (summed up in one quote) -** Your brain is for having ideas not holding them.
 
-## Size of Wiki
+<!--## Size of Wiki
 
-<!--Below are my 2400+ notes & their relations visualized using Obsidian.
+Below are my 2400+ notes & their relations visualized using Obsidian.
 
 ![All Notes Visualized in an Obsidian Graph](docs/media/notes-visualized.jpg)
 
@@ -44,37 +44,13 @@ loc
     - [Experience](https://deepaksood619.github.io/about-deepak-sood/experience/)
     - [Projects](https://deepaksood619.github.io/about-deepak-sood/projects/)
     - [Meetups / Talks / Sessions](https://deepaksood619.github.io/about-deepak-sood/meetups-talks-sessions/)
-- [Computer Science](https://deepaksood619.github.io/computer-science/)
-    - [AI](https://deepaksood619.github.io/ai/)
-        - [ML Algorithms](https://deepaksood619.github.io/ai/ml-algorithms/)
-        - [LLM](https://deepaksood619.github.io/ai/llm/)
-        - [Computer Vision](https://deepaksood619.github.io/ai/computer-vision-cv/)
-        - [NLP](https://deepaksood619.github.io/ai/nlp/)
-        - [Deep Learning](https://deepaksood619.github.io/ai/deep-learning/)
-    - [Algorithms](https://deepaksood619.github.io/algorithms/)
-    - [Data Structures](https://deepaksood619.github.io/data-structures/)
-    - [Languages](https://deepaksood619.github.io/languages/)
-        - [Python](https://deepaksood619.github.io/python/)
-    - [Networking](https://deepaksood619.github.io/networking/)
-    - [Databases](https://deepaksood619.github.io/databases/)
-        - [SQL Databases](https://deepaksood619.github.io/databases/sql-databases/)
-        - [NoSQL Databases](https://deepaksood619.github.io/databases/nosql-databases/)
-        - [Data Warehouses](https://deepaksood619.github.io/databases/data-warehouses/)
-    - [Frontend](https://deepaksood619.github.io/frontend/)
-    - [DevOps](https://deepaksood619.github.io/devops/)
-        - [Kubernetes](https://deepaksood619.github.io/devops/kubernetes/)
-    - [Cloud - AWS](https://deepaksood619.github.io/cloud/aws/)
-    - [Cloud - Others](https://deepaksood619.github.io/cloud/others/)
-    - [Technologies](https://deepaksood619.github.io/technologies/)
-        - [Apache Airflow](https://deepaksood619.github.io/technologies/apache-airflow/)
-        - [Kafka](https://deepaksood619.github.io/technologies/kafka/)
-    - [Decentralized Applications / Cryptocurrencies](https://deepaksood619.github.io/decentralized-applications/)
+  
+- [Languages](https://deepaksood619.github.io/languages/)
+  - [Python](https://deepaksood619.github.io/python/)
+        
+- [Cloud - AWS](https://deepaksood619.github.io/cloud/aws/)
+- [Cloud - Others](https://deepaksood619.github.io/cloud/others/)    
 - [Book Summaries](https://deepaksood619.github.io/book-summaries/)
-- [Mathematics](https://deepaksood619.github.io/mathematics/)
-- [Knowledge](https://deepaksood619.github.io/knowledge/)
-    - [Economics](https://deepaksood619.github.io/economics/)
-    - [Management](https://deepaksood619.github.io/management/)
-    - [Psychology](https://deepaksood619.github.io/psychology/)
 
 ## Getting started
 
@@ -88,9 +64,9 @@ The way I structure each page often looks the same and follows a structure. The 
 
 I use Zettlekasten Method for note taking and obsidian tool to manage and structure my notes. I have previously used Onenote but grown out of it in about 4 years, since it doesn't scale in terms of number of notes and doesn't have linking of notes
 
-**My Obsidian View**
+<!--**My Obsidian View**
 
-![Obsidian Screenshot](docs/media/obsidian-screenshot.jpg)
+![Obsidian Screenshot](docs/media/obsidian-screenshot.jpg) -->
 
 ## Must Read Pages
 
@@ -108,4 +84,4 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 
 ## Contact
 
-[Bhaskar Babu | LinkedIn](https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)
+[Bhaskar | LinkedIn](https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)
