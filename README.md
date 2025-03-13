@@ -83,4 +83,4 @@ There's 2000+ pages in here and lots of them I think are interesting. But these 
 
 
 ## Contact
-[Bhaskar_|_LinkedIn](https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)
+[Bhaskar-LinkedIn](https://www.linkedin.com/in/bhaskar-babu-narasimha-548494a/)
